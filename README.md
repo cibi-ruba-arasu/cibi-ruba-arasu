@@ -64,4 +64,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cibi-ruba-arasu&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-![snake animation](https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/github_user_name/cibi-ruba-arasu/blob/output/github-contribution-grid-snake2.svg)
