@@ -16,18 +16,21 @@
 > Feel free to call me Cibi 🤝
 ```
 
-<table>
-  <tr>
-    <td width="65%" align="center">
-      <p>I am a Computer Science Engineer specializing in Artificial Intelligence and Machine Learning🤖 who shares the same passion for learning and building cool projects          as you do! So far in my computer science journey📈, I have learned to build and implement Full-Stack Web Applications💻 with integrated Machine Learning models🧠. 
-      </p>
-      <img width="202" height="202" alt="216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612" src="https://github.com/user-attachments/assets/1c0cde90-69d2-4d9e-ba9a-32c8ea037315"/>
-    </td>
-    <td width="35%" align="center">
-     <img width="450" height="360" alt="212748830-4c709398-a386-4761-84d7-9e10b98fbe6e" src="https://github.com/user-attachments/assets/8973e12f-2ac5-4f13-bf6c-a9ac538ebd36" />
-    </td>
-  </tr>
-</table>
+<div>
+  <!-- This image will float to the right on desktop, and wrap naturally on mobile -->
+  <img align="right" width="350" alt="Right Side Graphic" src="https://github.com/user-attachments/assets/8973e12f-2ac5-4f13-bf6c-a9ac538ebd36" />
+  
+  <p>
+    I am a Computer Science Engineer specializing in Artificial Intelligence and Machine Learning🤖 who shares the same passion for learning and building cool projects as you do! So far in my computer science journey📈, I have learned to build and implement Full-Stack Web Applications💻 with integrated Machine Learning models🧠. 
+  </p>
+  
+  <p>
+    <img width="202" height="202" alt="Left Side Graphic" src="https://github.com/user-attachments/assets/1c0cde90-69d2-4d9e-ba9a-32c8ea037315"/>
+  </p>
+</div>
+
+<!-- This ensures the sections below it (like your skills) don't get messed up by the floating image -->
+<br clear="both"/>
 
 ### 🛠️ Tech Stack & Skills
 
