@@ -35,8 +35,8 @@
 ### 🛠️ Tech Stack & Skills
 
 **Domains**  
-![Full Stack](https://img.shields.io/badge/Full_Stack-6B38FB?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-6B38FB?style=for-the-badge)
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
